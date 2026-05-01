@@ -20,4 +20,4 @@ source ~/.zsh_plugins/dune/dune.zsh
 
 ### Credits
 
-This project was heavily inspired by brokendisk's dune-quotes. However, the rather limited quote selection felt slightly underwhelming, so I decided to create this plugin with a much larger selection of quotes.
+This project was heavily inspired by brokendisk's dune-quotes. However, the rather limited quote selection felt slightly underwhelming, so I decided to create this plugin with a much larger selection of quotes. Please check out his plugin too!
